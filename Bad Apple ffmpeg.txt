@@ -1,0 +1,11 @@
+# Generate video from frames
+ffmpeg -f concat -i BadAppleIntegerList.txt -framerate 12 out.mp4
+
+# Correct the duration of the video
+ffmpeg -i out.mp4 -filter:v "setpts=(3.52/4.22)*PTS" BadApplePython2.mp4
+
+# Rotate the video 90 degrees clockwise
+ffmpeg -i BadApplePython2.mp4 -vf "transpose=1" BadApplePython3.mp4
+
+# Add audio
+ffmpeg -i BadApplePython3.mp4 -i hd-touhou-bad-apple-pv-shadow-art.mp3 -codec copy -shortest BadApplePython4.mp4

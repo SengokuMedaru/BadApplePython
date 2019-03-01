@@ -1,0 +1,9 @@
+import matplotlib.pyplot as plt
+
+
+plt.plot([], [], 'k.')
+plt.subplots_adjust(top=1.00, bottom=0.00, left=0.30, right=0.90, hspace=0.20, wspace=0.20)
+plt.xlim(0, 720)
+plt.ylim(0, 960)
+plt.axis([0, 720, 0, 960])
+plt.savefig('.\\Bad_Apple_matplotlib_plots\\16740.jpg')
