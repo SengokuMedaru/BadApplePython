@@ -9,7 +9,7 @@ The technologies used include:
   
     * matplotlib
   
-    * subprocesses
+    * subprocess
   
     * PIL
   
