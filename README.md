@@ -5,17 +5,23 @@ This rendition of Bad Apple was created in Python, primarily using the matplotli
 [![Bad Apple on Python](https://img.youtube.com/watch?v=ifkfp_IJ3ro)](https://www.youtube.com/watch?v=ifkfp_IJ3ro)
 
 The technologies used include:
-  - Python
-  -- matplotlib
-  -- subprocesses
-  -- PIL
-  -- cv2
+  * Python
+  
+    * matplotlib
+  
+    * subprocesses
+  
+    * PIL
+  
+    * cv2
 
-  - Linux (Video editing)
-  -- ffmpeg
+  * Linux (Video editing)
+  
+    * ffmpeg
 
 # Sources
 The audio from the original Bad Apple was used in the video.
+
 https://www.youtube.com/watch?v=UkgK8eUdpAo
 
 # Other Comments
