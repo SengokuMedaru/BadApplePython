@@ -25,4 +25,4 @@ The audio from the original Bad Apple was used in the video.
 https://www.youtube.com/watch?v=UkgK8eUdpAo
 
 # Other Comments
-Feel free to clone the respository or use any code from here, just remember to credit me if you wish to publish the content or code anywhere else!
+Feel free to clone the repository or use any code from here, just remember to credit me if you wish to publish the content or code anywhere else!
