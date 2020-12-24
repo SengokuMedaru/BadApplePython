@@ -2,8 +2,6 @@
 
 This rendition of Bad Apple was created in Python, primarily using the matplotlib module.
 
-[![Bad Apple on Python](http://img.youtube.com/vi/ifkfp_IJ3ro/0.jpg)](http://www.youtube.com/watch?v=ifkfp_IJ3ro "Bad Apple on Python")
-
 The technologies used include:
   * Python
   
